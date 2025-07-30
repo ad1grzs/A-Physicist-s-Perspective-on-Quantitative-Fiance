@@ -4,6 +4,8 @@ Welcome to my self-driven journey into **quantitative finance**, where I approac
 
 This repository is a structured portfolio of projects that progressively build core competencies. Topics range from stochastic processes to derivatives pricing, time series modeling, portfolio optimization, and more.
 
+Each project is complemented by theoretical notes, also available in [PDF format](./notes.pdf), to provide foundation and quick reference. These are pre-eliminary and will be revised and updated periodically.
+
 ---
 
 ## 🌌 Philosophy
