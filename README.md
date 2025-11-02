@@ -25,8 +25,8 @@ As a physicist, I'm trained to model complex, noisy systems — and financial ma
 | # | Project | Description |
 |--:|:--------|:------------|
 | 1 | [Geometric Brownian Motion](./1_Geometric_Brownian_Motion) | Simulating GBM paths using Monte Carlo, with insights from Brownian motion and Langevin dynamics. |
-| 2 | Black-Scholes Option Pricing | Analytic and Monte Carlo pricing of European options under GBM. Derivation and implementation. |
-| 3 | Black-Scholes PDE Solver | Numerical solution of the BSM PDE using finite difference methods. |
+| 2 | [Black-Scholes Option Pricing](./2_Binomial_Option_Pricing/) | Analytic and Monte Carlo pricing of European options under GBM. Derivation and implementation. |
+| 3 | [Black-Scholes PDE Solver](./3_Black_Scholes_Equation/) | Numerical solution of the BSM PDE using finite difference methods. |
 | 4 | Portfolio Optimization | Markowitz efficient frontier, Sharpe ratio maximization, Monte Carlo frontier simulation. |
 | 5 | Time Series & Volatility Modeling | ARIMA and GARCH models for asset return modeling and volatility forecasting. |
 | 6 | Machine Learning for Finance | ML-based prediction of return direction and volatility clustering. |
